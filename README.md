@@ -23,11 +23,15 @@
 
 ## 🚀 Como rodar localmente
 
+
 1. Clone o projeto
    ```bash
    git clone https://github.com/seu-usuario/scrum-track.git
 
 2. Instale as dependências:
-npm install
+   ```bash
+   npm install
+
+3. rode o projeto:
+```bash
 npm start
-Acesse em: http://localhost:3000
