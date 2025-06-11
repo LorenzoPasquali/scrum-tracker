@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Daily Scrum Tracker</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-100 min-h-screen flex items-center justify-center">
+  <div class="bg-white p-6 rounded-2xl shadow-lg w-full max-w-2xl">
+
+    <div class="space-y-6">
+      <div>
+        <label class="block font-medium">Data</label>
+        <input type="date" id="date" required class="mt-1 block w-full rounded p-2 border" />
+      </div>
+
+      <div>
+        <label class="block font-medium">O que fiz ontem</label>
+        <div class="flex gap-2">
+          <input type="text" id="task-did" placeholder="Tarefa concluída" class="flex-1 rounded p-2 border" />
+          <button id="add-did" type="button" class="bg-green-500 text-white px-4 py-2 rounded">Adicionar</button>
+        </div>
+      </div>
+
+      <div>
+        <label class="block font-medium">O que pretendo fazer hoje</label>
+        <div class="flex gap-2">
+          <input type="text" id="task-will" placeholder="Tarefa planejada" class="flex-1 rounded p-2 border" />
+          <button id="add-will" type="button" class="bg-blue-500 text-white px-4 py-2 rounded">Adicionar</button>
+        </div>
+      </div>
+    </div>
+
+    <h2 class="text-2xl font-semibold mt-10">Histórico</h2>
+    <ul id="history" class="mt-4 space-y-4"></ul>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>

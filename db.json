@@ -1,0 +1,539 @@
+{
+  "entries": [
+    {
+      "id": 1748003196571,
+      "date": "2025-05-27",
+      "did": [
+        {
+          "text": "Integração cerecena",
+          "time": "09:26"
+        },
+        {
+          "text": "Ajuste fluxo Metalli",
+          "time": "09:27"
+        },
+        {
+          "id": 1748008743628,
+          "text": "Intergração cercena again",
+          "time": "10:59"
+        },
+        {
+          "id": 1748018137163,
+          "text": "auxilio lucas agross",
+          "time": "13:35"
+        },
+        {
+          "id": 1748028964246,
+          "text": "integração Belga",
+          "time": "16:36"
+        }
+      ],
+      "will": []
+    },
+    {
+      "id": 1748343832540,
+      "date": "2025-05-28",
+      "did": [
+        {
+          "id": 1748343832540,
+          "text": "Demandas suporte, customizações",
+          "time": "08:03"
+        },
+        {
+          "id": 1748346951286,
+          "text": "Compare Ultimas versões fluxo Metalli, Replicação na base deles local",
+          "time": "08:55"
+        },
+        {
+          "id": 1748353500316,
+          "text": "Teste mensageria coletor+",
+          "time": "10:45"
+        },
+        {
+          "id": 1748356773100,
+          "text": "Instalação codi black smith",
+          "time": "11:39"
+        },
+        {
+          "id": 1748369293194,
+          "text": "reunião luis farben",
+          "time": "15:08"
+        },
+        {
+          "id": 1748369297487,
+          "text": "auxilio Bridi Metalli",
+          "time": "15:08"
+        },
+        {
+          "id": 1748374348808,
+          "text": "problema webnet srv desev",
+          "time": "16:32"
+        }
+      ],
+      "will": [
+        {
+          "id": 1748377734053,
+          "text": "finalizar base blacksmith",
+          "time": "17:28"
+        },
+        {
+          "id": 1748377746776,
+          "text": "cadastrar clientes na base do blascksmith",
+          "time": "17:29"
+        },
+        {
+          "id": 1748377761886,
+          "text": "retornar NTC chamado suporte",
+          "time": "17:29"
+        },
+        {
+          "id": 1748377773895,
+          "text": "retornar LANGE integração",
+          "time": "17:29"
+        },
+        {
+          "id": 1748428617836,
+          "text": "Seguir tarefas sprint",
+          "time": "07:36"
+        }
+      ]
+    },
+    {
+      "id": 1748429840795,
+      "date": "2025-05-29",
+      "did": [
+        {
+          "id": 1748429840795,
+          "text": "Base Blacksmith",
+          "time": "07:57"
+        },
+        {
+          "id": 1748433942777,
+          "text": "parametrização clientes base Blacksmith",
+          "time": "09:05"
+        },
+        {
+          "id": 1748440438248,
+          "text": "Testes tarefas",
+          "time": "10:53"
+        },
+        {
+          "id": 1748451846015,
+          "text": "Retorno Lange alteração Código Itens",
+          "time": "14:04"
+        },
+        {
+          "id": 1748451858126,
+          "text": "Retorno Farben Migração PostgreSQL",
+          "time": "14:04"
+        },
+        {
+          "id": 1748453564552,
+          "text": "Teste tarefas",
+          "time": "14:32"
+        },
+        {
+          "id": 1748459968607,
+          "text": "Fluxo blacksmith",
+          "time": "16:19"
+        },
+        {
+          "id": 1748459972230,
+          "text": "SQL Lange",
+          "time": "16:19"
+        }
+      ],
+      "will": [
+        {
+          "id": 1748515512654,
+          "text": "Finalizar fluxo blacksmith",
+          "time": "07:45"
+        },
+        {
+          "id": 1748515524038,
+          "text": "atualizar codigo itens lange",
+          "time": "07:45"
+        },
+        {
+          "id": 1748515534339,
+          "text": "Retornar Farben Migração Postgres",
+          "time": "07:45"
+        }
+      ]
+    },
+    {
+      "id": 1748524547380,
+      "date": "2025-05-30",
+      "did": [
+        {
+          "id": 1748524547380,
+          "text": "Fluxo Blacksmith finalizado",
+          "time": "10:15"
+        },
+        {
+          "id": 1748526018698,
+          "text": "Teste tarefas",
+          "time": "10:40"
+        },
+        {
+          "id": 1748526030318,
+          "text": "Belga integração",
+          "time": "10:40"
+        },
+        {
+          "id": 1748537665211,
+          "text": "ainda na belga",
+          "time": "13:54"
+        },
+        {
+          "id": 1748537675386,
+          "text": "Auxilio JP Lange",
+          "time": "13:54"
+        },
+        {
+          "id": 1748540927922,
+          "text": "Teste relatórios E2E",
+          "time": "14:48"
+        },
+        {
+          "id": 1748540944329,
+          "text": "Fluxo blacksmith Lote",
+          "time": "14:49"
+        }
+      ],
+      "will": []
+    },
+    {
+      "id": 1748625231590,
+      "date": "2025-06-02",
+      "did": [
+        {
+          "id": 1748625231590,
+          "text": "Fluxo lote Blacksmith",
+          "time": "14:13"
+        },
+        {
+          "id": 1748625240411,
+          "text": "Ajuste erro JSON fluxo lote blacksmith",
+          "time": "14:14"
+        },
+        {
+          "id": 1748625248739,
+          "text": "Reunião do suporte",
+          "time": "14:14"
+        },
+        {
+          "id": 1748625253090,
+          "text": "Demanda atualização itens lange",
+          "time": "14:14"
+        },
+        {
+          "id": 1748625257808,
+          "text": "Tarefa ajuste fluxo nilko parada leitor",
+          "time": "14:14"
+        },
+        {
+          "id": 1748635862151,
+          "text": "finalizado lote blacksmith AMEM",
+          "time": "17:11"
+        },
+        {
+          "id": 1748635874754,
+          "text": "auxilio Matheus inpel",
+          "time": "17:11"
+        }
+      ],
+      "will": [
+        {
+          "id": 1748861353249,
+          "text": "Teste Ordenação checklist",
+          "time": "07:49"
+        },
+        {
+          "id": 1748861378541,
+          "text": "Criar painel modular SMC",
+          "time": "07:49"
+        },
+        {
+          "id": 1748861390443,
+          "text": "Cobrar cercena Integração",
+          "time": "07:49"
+        }
+      ]
+    },
+    {
+      "id": 1748865751128,
+      "date": "2025-06-03",
+      "did": [
+        {
+          "id": 1748865751128,
+          "text": "Tarefa Sinalizador ativo horário amostras",
+          "time": "09:02"
+        },
+        {
+          "id": 1748882334965,
+          "text": "inicio teste unitario cadastro funcionario",
+          "time": "13:38"
+        },
+        {
+          "id": 1748882353814,
+          "text": "Ajuste cor do teclado coletor+",
+          "time": "13:39"
+        },
+        {
+          "id": 1748889840678,
+          "text": "Fluxo Nilko",
+          "time": "15:44"
+        },
+        {
+          "id": 1748947960047,
+          "text": "modular panel coletor+",
+          "time": "07:52"
+        }
+      ],
+      "will": [
+        {
+          "id": 1748947512959,
+          "text": "retorno belga",
+          "time": "07:45"
+        }
+      ]
+    },
+    {
+      "id": 1748959766162,
+      "date": "2025-06-04",
+      "did": [
+        {
+          "id": 1748959766162,
+          "text": "Fluxo Nilko leitura",
+          "time": "11:09"
+        },
+        {
+          "id": 1748959775669,
+          "text": "Fluxo Blacksmith validação",
+          "time": "11:09"
+        },
+        {
+          "id": 1748959779279,
+          "text": "Teste tarefas",
+          "time": "11:09"
+        },
+        {
+          "id": 1748973274641,
+          "text": "Fluxo Agross finalizacao ordens multiplas",
+          "time": "14:54"
+        },
+        {
+          "id": 1748979858958,
+          "text": "Atualização girando sol",
+          "time": "16:44"
+        },
+        {
+          "id": 1748979866124,
+          "text": "Demanda Farben",
+          "time": "16:44"
+        },
+        {
+          "id": 1748979876348,
+          "text": "Tarefa Bruning",
+          "time": "16:44"
+        }
+      ],
+      "will": [
+        {
+          "id": 1748980190424,
+          "text": "Falar Sobre adicionar funcionario lançado",
+          "time": "16:49"
+        }
+      ]
+    },
+    {
+      "id": 1749042566140,
+      "date": "2025-06-05",
+      "did": [
+        {
+          "id": 1749042566140,
+          "text": "Reuniao Sprint",
+          "time": "10:09"
+        },
+        {
+          "id": 1749042572779,
+          "text": "Auxilio Matheus Buzin",
+          "time": "10:09"
+        },
+        {
+          "id": 1749042593065,
+          "text": "Validação Geral 8.0.5-RC1",
+          "time": "10:09"
+        },
+        {
+          "id": 1749053785264,
+          "text": "atualizacao  homolog NTC",
+          "time": "13:16"
+        },
+        {
+          "id": 1749058941026,
+          "text": "tarefa consolidação",
+          "time": "14:42"
+        },
+        {
+          "id": 1749120475366,
+          "text": "retorno farben",
+          "time": "07:47"
+        },
+        {
+          "id": 1749120521122,
+          "text": "taerfas ntc",
+          "time": "07:48"
+        }
+      ],
+      "will": []
+    },
+    {
+      "id": 1749131921053,
+      "date": "2025-06-06",
+      "did": [
+        {
+          "id": 1749131921053,
+          "text": "Tarefa permissão consolidação",
+          "time": "10:58"
+        },
+        {
+          "id": 1749131927351,
+          "text": "Atualização base girando sol",
+          "time": "10:58"
+        },
+        {
+          "id": 1749131936255,
+          "text": "tarefa nomenclatura relatórios emissão de etiqueta",
+          "time": "10:58"
+        },
+        {
+          "id": 1749150142882,
+          "text": "auxilio matheus compactor",
+          "time": "16:02"
+        }
+      ],
+      "will": []
+    },
+    {
+      "id": 1749207433595,
+      "date": "2025-06-09",
+      "did": [
+        {
+          "id": 1749207433595,
+          "text": "Base homologação NTC",
+          "time": "07:57"
+        },
+        {
+          "id": 1749208746342,
+          "text": "Ajuste fluxo modelo retorna coletor",
+          "time": "08:19"
+        },
+        {
+          "id": 1749465853365,
+          "text": "Fluxo coletor web techplug",
+          "time": "07:44"
+        },
+        {
+          "id": 1749465891279,
+          "text": "validação selecionar mais de um recurso na tela menu de recursos",
+          "time": "07:44"
+        },
+        {
+          "id": 1749465926157,
+          "text": "criação modulo diario de bordo smc",
+          "time": "07:45"
+        }
+      ],
+      "will": []
+    },
+    {
+      "id": 1749466447557,
+      "date": "2025-06-10",
+      "did": [
+        {
+          "id": 1749466447557,
+          "text": "Fluxo lançamento de ordem audax",
+          "time": "07:54"
+        },
+        {
+          "id": 1749472192729,
+          "text": "Teste tarefa SMC gp",
+          "time": "09:29"
+        },
+        {
+          "id": 1749472200560,
+          "text": "Teste tarefa panatlantica slitter",
+          "time": "09:30"
+        },
+        {
+          "id": 1749472206881,
+          "text": "Fluxo sufran validação funcionario por recurso",
+          "time": "09:30"
+        },
+        {
+          "id": 1749477956064,
+          "text": "teste tarefa belga",
+          "time": "11:05"
+        }
+      ],
+      "will": []
+    },
+    {
+      "id": 1749553281220,
+      "date": "2025-06-11",
+      "did": [
+        {
+          "id": 1749553281220,
+          "text": "Fluxo blacksmith",
+          "time": "08:01"
+        },
+        {
+          "id": 1749583214096,
+          "text": "grafico sunburst menu modulos",
+          "time": "16:20"
+        },
+        {
+          "id": 1749583225397,
+          "text": "botao modulo diario de bordo",
+          "time": "16:20"
+        },
+        {
+          "id": 1749583241116,
+          "text": "instalador java gitlab downloader",
+          "time": "16:20"
+        }
+      ],
+      "will": [
+        {
+          "id": 1749639022709,
+          "text": "Prosseguir tarefa instalador",
+          "time": "07:50"
+        }
+      ]
+    },
+    {
+      "id": 1749650010170,
+      "date": "2025-06-12",
+      "did": [
+        {
+          "id": 1749650010170,
+          "text": "Finalizado instalador gitlab",
+          "time": "10:53"
+        },
+        {
+          "id": 1749650058385,
+          "text": "migração codi blacksmith /opt",
+          "time": "10:54"
+        },
+        {
+          "id": 1749650060930,
+          "text": "teste tarefas",
+          "time": "10:54"
+        }
+      ],
+      "will": []
+    }
+  ]
+}
