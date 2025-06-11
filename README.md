@@ -34,4 +34,4 @@
 
 3. rode o projeto:
 ```bash
-npm start
+   npm start
